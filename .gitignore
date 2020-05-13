@@ -1,3 +1,7 @@
 .idea/
 ExamAppDiscoveryService.iml
 target/
+.classpath
+.project
+.settings/
+bin/
